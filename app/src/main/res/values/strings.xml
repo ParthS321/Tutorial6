@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial 06</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login">Login</string>
+    <string name="logout_name">logout</string>
+    <string name="welcome_name">welcome</string>
+    <string name="user">User</string>
+    <string name="pass">pass</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter password</string>
+</resources>
